@@ -1,0 +1,2 @@
+# colores
+velocidad-intento1
